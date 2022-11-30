@@ -30,11 +30,6 @@ export default function Appbar() {
                 Top Anime
               </a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="./about.html">
-                About
-              </a>
-            </li>
           </ul>
         </div>
       </div>
